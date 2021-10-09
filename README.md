@@ -13,3 +13,18 @@ Codis comentats treballats durant el lab 3
 * mètodes statics
 * com fer tests millors
 * quatre millores a l'algoritme per comprovar si un número és primer
+
+
+## lab 4
+
+Codis comentats treballats durant el lab 4
+ 
+* Com millorar el codi del lab3 per evitar tenir que canviar el nom de la versió
+de primers.
+* Classes i constructors
+
+Més endavant ho farem amb una interface
+
+
+
+
