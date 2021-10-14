@@ -1,9 +1,15 @@
 # MP_exemplesJava
-Codis treballats a classe durant els labs
+Codis treballats a classe durant els labs de Metodologies de la Programació
+
+
+## lab 1
+
+Presentació
+
 
 ## lab 2
 
-Codis comentats treballats durant el lab 2
+Codis comentats treballats durant el lab 2 + presentació
 
 ## lab 3
 
@@ -23,7 +29,7 @@ Codis comentats treballats durant el lab 4
 de primers.
 * Classes i constructors
 
-Més endavant ho farem amb una interface
+Més endavant ho farem amb una interface o amb programació funcional
 
 
 
